@@ -41,8 +41,8 @@ int main() {
     scanf("%d", &populacao1);
     printf("Digite a Area (em KM²): ");
     scanf("%f", &area1);
-    printf("Digite o PIB: ");
-    scanf("%f", &pib1);
+    printf("Digite o PIB Exato: ");
+    scanf("%lf", &pib1);
     printf("Digite o número de Pontos Turisticos: ");
     scanf("%d", &turisticos1);
 
@@ -68,8 +68,8 @@ int main() {
     scanf("%d", &populacao2);
     printf("Digite a Area (em Km²): ");
     scanf("%f", &area2);
-    printf("Digite o PIB: ");
-    scanf("%f", &pib2);
+    printf("Digite o PIB Exato: ");
+    scanf("%lf", &pib2);
     printf("Digite o número de Pontos Turisticos: ");
     scanf("%d", &turisticos2);
 
